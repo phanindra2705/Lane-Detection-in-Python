@@ -21,6 +21,6 @@ playsound (or alternatives like pygame, winsound, or system commands depending o
 Requirements : 
 Install the following Python libraries:
 
-opencv-python
-numpy
-playsound (or alternatives like pygame or winsound)
+- opencv-python
+- numpy
+- playsound (or alternatives like pygame or winsound)
